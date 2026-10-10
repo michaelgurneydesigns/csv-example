@@ -1,0 +1,9 @@
+GRADE REPORT
+========================================
+
+Total students: 8
+Overall average: 82.9
+Highest score: 95 
+Lowest score: 65 
+BY SUBJECT
+ Math: 83.7 avg (3 students) Science: 80.3 avg (3 students) English: 85.5 avg (2 students)
